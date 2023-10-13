@@ -18,7 +18,7 @@ TMBD Movie App is designed to provide clients with complete information about th
 
 ![Detail Screen](img/detail.png)
 
-<b>4) SQLite(Local) Screen</b>
+<b>4) Local(ROOM) Screen</b>
 
 ![Local Screen](img/local2.png)
 
