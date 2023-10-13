@@ -1,6 +1,6 @@
 # TMBD-Movie-App
 
-TMBD Movie App is designed to provide clients with complete information about the movies and seasons. Here you can search for any recent and old movie of your own choice, and you will be able to get the details of any movie and season and you will have the feature to save the movie so that you can access it locally when you dont have any internet.
+TMBD Movie App is designed to provide clients with complete information about the movies and seasons. Here you can search for any recent and old movie of your own choice, and you will be able to get the details of any movie and season you will have the feature to save the movie so that you can access it locally when you don't have any internet.
 
 <b>Application Overview</b>
 
@@ -27,3 +27,15 @@ TMBD Movie App is designed to provide clients with complete information about th
 <b>5) Search Screen</b>
 
 ![Search Screen](img/search.png)
+
+
+
+<b>Technologies Used</b>
+
+<ol>
+  <li>Fragments</li>
+  <li>NavHostFragment(Navigation Graph)</li>
+  <li>Retrofit</li>
+  <li>Dagger Hilt</li>
+  <li>SQLite Database</li>
+</ol>
